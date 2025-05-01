@@ -1,0 +1,10 @@
+groovy-chatbot/
+├── Chatbot.java
+├── ChatbotTest.java
+├── README.md
+├── LICENSE
+├── .gitignore
+├── CONTRIBUTING.md
+├── CHANGELOG.md
+├── docs/
+│   └── PROJECT_PLAN.md
