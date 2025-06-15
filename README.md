@@ -140,8 +140,8 @@ You are free to use, modify, and distribute this code with proper attribution.
 
 **Abir Kanungo**
 🎓 Undergraduate, USTC
-🔗 GitHub: [yourusername](https://github.com/yourusername)
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+🔗 GitHub: https://github.com/Abir344-kanungo
+📧 Email: abirkanungo@gmail.com
 
 ---
 
