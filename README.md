@@ -155,32 +155,4 @@ You are free to use, modify, and distribute this code with proper attribution.
 
 ---
 
-## 🤝 Contribution Guidelines
 
-Want to contribute to Groovy ChatBot?
-
-1. Fork the repo
-2. Create your feature branch: `git checkout -b feature/yourFeature`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/yourFeature`
-5. Open a pull request
-
-All contributions are welcome and appreciated 🙌
-
----
-
-```
-
----
-
-### ✅ Next Steps for You
-- Replace placeholders like `yourusername`, `your-email@example.com`, and any screenshot/image URLs.
-- (Optional) Upload a screenshot of your chatbot running and update the `![Groovy ChatBot Screenshot]()` section.
-
-Would you like me to also:
-- Generate a `.gitignore` file for Java?
-- Create the `LICENSE` file for MIT?
-- Suggest tags and project topics for your GitHub repository?
-
-Let me know!
-```
